@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **cynraw/cynraw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=cynraw&show_icons=true&theme=radical)
+  
+
