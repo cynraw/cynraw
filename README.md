@@ -4,7 +4,7 @@
 
 💡 Passionate About: Frontend Development, Data Analysis, and Software Engineering
 
-📊 Ask Me About: Data Analysis, Web Development, and Coding Fundamentals
+📊 Ask Me About: Data Analysis and Web Development
 
 👩‍💻 Tech Enthusiast: Always exploring new technologies and improving my skills
 
