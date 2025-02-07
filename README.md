@@ -1,10 +1,15 @@
 🚀 Hey there! I'm Cynthia Ronoh!
 
 🌱 Currently Learning: Data Structures & Algorithms, Backend Development (Docker & Kubernetes)
+
 💡 Passionate About: Frontend Development, Data Analysis, and Software Engineering
+
 📊 Ask Me About: Data Analysis, Web Development, and Coding Fundamentals
+
 👩‍💻 Tech Enthusiast: Always exploring new technologies and improving my skills
+
 😄 Pronouns: She/Her
+
 💬 Let’s connect and build something amazing!
 
 
