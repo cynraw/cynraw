@@ -4,7 +4,7 @@
 
 💡 Passionate About: Software Engineering
 
-📊 Ask Me About: Data Analysis and Web Development
+📊 Ask Me About: Sofware Development and Data Structures
 
 👩‍💻 Tech Enthusiast: Always exploring new technologies and improving my skills
 
