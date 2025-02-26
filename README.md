@@ -1,8 +1,8 @@
 🚀 Hey there! I'm Cynthia Ronoh!
 
-🌱 Currently Learning: Data Structures & Algorithms, Backend Development (Docker & Kubernetes)
+🌱 Currently Learning: Data Structures & Algorithms, MERN Stack
 
-💡 Passionate About: Frontend Development, Data Analysis, and Software Engineering
+💡 Passionate About: Software Engineering
 
 📊 Ask Me About: Data Analysis and Web Development
 
