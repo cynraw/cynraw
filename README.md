@@ -1,6 +1,6 @@
 🚀 Hey there! I'm Cynthia Ronoh!
 
-🌱 Currently Learning: Kotlin and Android development
+🌱 Currently Learning: Spring Security
 
 😄 Pronouns: She/Her
 
